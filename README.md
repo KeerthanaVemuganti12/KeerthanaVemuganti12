@@ -12,6 +12,18 @@
 🔹 Adept at crafting **interactive dashboards and visualizations** to support data-driven decision-making.  
 
 ---
+#### **Stevens Institute of Technology, School of Management**  
+📍 Hoboken, NJ  
+🎓 **Master of Science in Information Systems**  
+📅 *January 2023 - December 2024*  
+📊 **GPA: 3.86**  
+
+#### **Sreyas Institute of Engineering and Technology**  
+📍 Hyderabad, India  
+🎓 **Bachelor of Technology in Electronics and Communication Engineering**  
+📅 *August 2018 - July 2022*  
+
+---
 
 ### 🛠 Tech Stack & Skills
 
