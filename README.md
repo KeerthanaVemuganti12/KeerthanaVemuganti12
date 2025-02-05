@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Keerthana Vemuganti
-## 📊 Data Analytics - Turning Numbers into Insights! 📈  
+## 📊 Analytics - Turning Numbers into Insights! 📈  
 
 > **"Without data, you're just another person with an opinion."** – W. Edwards Deming  
 
