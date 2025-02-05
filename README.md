@@ -5,7 +5,7 @@
 
 🔍 Analyzing 📊 | Visualizing 📉 | Optimizing 🚀  
 
-👀 Explore my projects below! ⬇️  
+👀 Please visist the repositories section to explore my projects!⬆️  
 
 
 🚀 **Data Analyst | Business Intelligence | Machine Learning Enthusiast**
