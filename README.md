@@ -1,4 +1,12 @@
 # Hi there! 👋 I'm Keerthana Vemuganti
+## 📊 Data Analytics - Turning Numbers into Insights! 📈  
+
+> **"Without data, you're just another person with an opinion."** – W. Edwards Deming  
+
+🔍 Analyzing 📊 | Visualizing 📉 | Optimizing 🚀  
+
+👀 Explore my projects below! ⬇️  
+
 
 🚀 **Data Analyst | Business Intelligence | Machine Learning Enthusiast**
 📍 United States | [LinkedIn](https://www.linkedin.com/in/keerthanavemuganti/)
