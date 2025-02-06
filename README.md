@@ -60,11 +60,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-🔹 **[Credit Card Complaints Dashboard](#)** - Analyzed **87,000+ complaints** using Tableau. Built interactive density maps, parameter-driven filters, and KPIs.  
-🔹 **[Heart Disease Prediction](#)** - Machine Learning model using **Random Forest & SVM** with 1,000+ patient records. Achieved **optimal detection rates** for medical insights.  
-
 📌 **More projects:** Check out my [GitHub Repositories](#)
 
 ---
