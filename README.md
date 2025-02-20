@@ -64,16 +64,6 @@
 
 ---
 
-### 💼 Work Experience
-
-#### **Data Analyst Intern** - *Design Tree Consultants Pvt Ltd*  
-📅 *March 2022 - May 2022*  
-
-#### **Analyst Intern** - *Pert Info Consulting Pvt Ltd*  
-📅 *November 2022 – December 2022*  
-
----
-
 ### 📫 Let's Connect
 📩 **Email:** vemugantikeerthana@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/keerthanavemuganti](https://www.linkedin.com/in/keerthanavemuganti/)  
